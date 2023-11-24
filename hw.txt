@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Another content for file
+=======
+Content for file
+>>>>>>> feature_branch
+New content for file
