@@ -4,3 +4,4 @@ Another content for file
 Content for file
 >>>>>>> feature_branch
 New content for file
+Yet another content for file
